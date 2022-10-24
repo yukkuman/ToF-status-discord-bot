@@ -11,6 +11,8 @@ You can check the status of players on any server. The status of ToF players is 
 | ---------------- | ----------------------------------------------------------- |
 | /status          | See the status of Tof players                               |
 
+## Youtube
+https://youtu.be/JP9sfNuHixA
 
 ## Reference
 https://www.incin.net/scryglass
