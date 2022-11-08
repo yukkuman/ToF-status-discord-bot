@@ -4,6 +4,7 @@ The discord bot to see the status of ToF players [![Invite Bot](https://img.shie
 
 You can check the status of players on any server. The status of ToF players is displayed through the image.
 
+Top.gg(https://top.gg/bot/1033338109858943027)
 
 
 ## Commands
